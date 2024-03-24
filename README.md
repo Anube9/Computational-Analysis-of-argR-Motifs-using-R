@@ -1,1 +1,1 @@
-# argR-Motif-Analysis-Weight-Matrix-Similarity-Scoring-and-Top-Binding-Sites
+# Computational Analysis of argR Motifs using R
