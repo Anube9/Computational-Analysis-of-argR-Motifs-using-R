@@ -1,1 +1,2 @@
 # Computational Analysis of argR Motifs using R
+## This computational analysis aims to analyze DNA sequences and identify potential binding sites for the transcription factor argR. The script calculates weight matrices based on provided count data and then scans upstream regulatory regions (provided in the ECOLI file in file attachments) to identify the top-scoring regions with the highest similarity to the weight matrix, suggesting potential argR binding sites.
